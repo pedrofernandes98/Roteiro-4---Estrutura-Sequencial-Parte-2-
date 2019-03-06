@@ -1,0 +1,7 @@
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro 4 - Estrutura de Repetição (parte 2)\exercicio8_livro\exercicio8_livro\obj\Debug\exercicio8_livro.csprojAssemblyReference.cache
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro 4 - Estrutura de Repetição (parte 2)\exercicio8_livro\exercicio8_livro\obj\Debug\exercicio8_livro.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro 4 - Estrutura de Repetição (parte 2)\exercicio8_livro\exercicio8_livro\bin\Debug\exercicio8_livro.exe.config
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro 4 - Estrutura de Repetição (parte 2)\exercicio8_livro\exercicio8_livro\bin\Debug\exercicio8_livro.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro 4 - Estrutura de Repetição (parte 2)\exercicio8_livro\exercicio8_livro\bin\Debug\exercicio8_livro.pdb
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro 4 - Estrutura de Repetição (parte 2)\exercicio8_livro\exercicio8_livro\obj\Debug\exercicio8_livro.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro 4 - Estrutura de Repetição (parte 2)\exercicio8_livro\exercicio8_livro\obj\Debug\exercicio8_livro.pdb
